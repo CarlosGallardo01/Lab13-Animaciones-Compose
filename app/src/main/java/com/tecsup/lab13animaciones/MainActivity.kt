@@ -22,9 +22,9 @@ class MainActivity : ComponentActivity() {
             MaterialTheme {
                 //Ejercicio1Screen()
                  //Ejercicio2Screen()
-                Ejercicio3Screen()
+                //Ejercicio3Screen()
                 // Ejercicio4Screen()
-                // EjercicioFinalGameScreen()
+                 EjercicioFinalGameScreen()
             }
         }
     }
