@@ -20,9 +20,9 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             MaterialTheme {
-                Ejercicio1Screen()
-                // Ejercicio2Screen()
-                // Ejercicio3Screen()
+                //Ejercicio1Screen()
+                 //Ejercicio2Screen()
+                Ejercicio3Screen()
                 // Ejercicio4Screen()
                 // EjercicioFinalGameScreen()
             }
